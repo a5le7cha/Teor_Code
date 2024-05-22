@@ -1,0 +1,7 @@
+C:\работы по програм-ю\TeorCod Laboratory\Lab6_Hemming\Lab6_Hemming\bin\Debug\Lab6_Hemming.exe.config
+C:\работы по програм-ю\TeorCod Laboratory\Lab6_Hemming\Lab6_Hemming\bin\Debug\Lab6_Hemming.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab6_Hemming\Lab6_Hemming\bin\Debug\Lab6_Hemming.pdb
+C:\работы по програм-ю\TeorCod Laboratory\Lab6_Hemming\Lab6_Hemming\obj\Debug\Lab6_Hemming.csproj.AssemblyReference.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab6_Hemming\Lab6_Hemming\obj\Debug\Lab6_Hemming.csproj.CoreCompileInputs.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab6_Hemming\Lab6_Hemming\obj\Debug\Lab6_Hemming.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab6_Hemming\Lab6_Hemming\obj\Debug\Lab6_Hemming.pdb

@@ -1,0 +1,7 @@
+C:\работы по програм-ю\TeorCod Laboratory\Lab3_AriphmeticCod\Lab3_AriphmeticCod\bin\Debug\Lab3_AriphmeticCod.exe.config
+C:\работы по програм-ю\TeorCod Laboratory\Lab3_AriphmeticCod\Lab3_AriphmeticCod\bin\Debug\Lab3_AriphmeticCod.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab3_AriphmeticCod\Lab3_AriphmeticCod\bin\Debug\Lab3_AriphmeticCod.pdb
+C:\работы по програм-ю\TeorCod Laboratory\Lab3_AriphmeticCod\Lab3_AriphmeticCod\obj\Debug\Lab3_AriphmeticCod.csproj.AssemblyReference.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab3_AriphmeticCod\Lab3_AriphmeticCod\obj\Debug\Lab3_AriphmeticCod.csproj.CoreCompileInputs.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab3_AriphmeticCod\Lab3_AriphmeticCod\obj\Debug\Lab3_AriphmeticCod.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab3_AriphmeticCod\Lab3_AriphmeticCod\obj\Debug\Lab3_AriphmeticCod.pdb

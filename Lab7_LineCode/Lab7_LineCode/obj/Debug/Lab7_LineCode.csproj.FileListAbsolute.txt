@@ -1,0 +1,7 @@
+C:\работы по програм-ю\TeorCod Laboratory\Lab7_LineCode\Lab7_LineCode\bin\Debug\Lab7_LineCode.exe.config
+C:\работы по програм-ю\TeorCod Laboratory\Lab7_LineCode\Lab7_LineCode\bin\Debug\Lab7_LineCode.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab7_LineCode\Lab7_LineCode\bin\Debug\Lab7_LineCode.pdb
+C:\работы по програм-ю\TeorCod Laboratory\Lab7_LineCode\Lab7_LineCode\obj\Debug\Lab7_LineCode.csproj.AssemblyReference.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab7_LineCode\Lab7_LineCode\obj\Debug\Lab7_LineCode.csproj.CoreCompileInputs.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab7_LineCode\Lab7_LineCode\obj\Debug\Lab7_LineCode.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab7_LineCode\Lab7_LineCode\obj\Debug\Lab7_LineCode.pdb

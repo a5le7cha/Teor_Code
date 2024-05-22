@@ -1,0 +1,7 @@
+C:\работы по програм-ю\TeorCod Laboratory\Lab5_LZ77\Lab5_LZ77\bin\Debug\Lab5_LZ77.exe.config
+C:\работы по програм-ю\TeorCod Laboratory\Lab5_LZ77\Lab5_LZ77\bin\Debug\Lab5_LZ77.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab5_LZ77\Lab5_LZ77\bin\Debug\Lab5_LZ77.pdb
+C:\работы по програм-ю\TeorCod Laboratory\Lab5_LZ77\Lab5_LZ77\obj\Debug\Lab5_LZ77.csproj.AssemblyReference.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab5_LZ77\Lab5_LZ77\obj\Debug\Lab5_LZ77.csproj.CoreCompileInputs.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab5_LZ77\Lab5_LZ77\obj\Debug\Lab5_LZ77.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab5_LZ77\Lab5_LZ77\obj\Debug\Lab5_LZ77.pdb

@@ -1,0 +1,7 @@
+C:\работы по програм-ю\TeorCod Laboratory\Lab4_AlgRLE\Lab4_AlgRLE\obj\Debug\Lab4_AlgRLE.csproj.AssemblyReference.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab4_AlgRLE\Lab4_AlgRLE\obj\Debug\Lab4_AlgRLE.csproj.CoreCompileInputs.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab4_AlgRLE\Lab4_AlgRLE\bin\Debug\Lab4_AlgRLE.exe.config
+C:\работы по програм-ю\TeorCod Laboratory\Lab4_AlgRLE\Lab4_AlgRLE\bin\Debug\Lab4_AlgRLE.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab4_AlgRLE\Lab4_AlgRLE\bin\Debug\Lab4_AlgRLE.pdb
+C:\работы по програм-ю\TeorCod Laboratory\Lab4_AlgRLE\Lab4_AlgRLE\obj\Debug\Lab4_AlgRLE.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab4_AlgRLE\Lab4_AlgRLE\obj\Debug\Lab4_AlgRLE.pdb

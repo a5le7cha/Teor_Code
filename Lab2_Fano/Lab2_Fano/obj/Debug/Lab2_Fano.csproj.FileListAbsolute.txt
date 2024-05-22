@@ -1,0 +1,7 @@
+C:\работы по програм-ю\TeorCod Laboratory\Lab2_Fano\Lab2_Fano\bin\Debug\Lab2_Fano.exe.config
+C:\работы по програм-ю\TeorCod Laboratory\Lab2_Fano\Lab2_Fano\bin\Debug\Lab2_Fano.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab2_Fano\Lab2_Fano\bin\Debug\Lab2_Fano.pdb
+C:\работы по програм-ю\TeorCod Laboratory\Lab2_Fano\Lab2_Fano\obj\Debug\Lab2_Fano.csproj.AssemblyReference.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab2_Fano\Lab2_Fano\obj\Debug\Lab2_Fano.csproj.CoreCompileInputs.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab2_Fano\Lab2_Fano\obj\Debug\Lab2_Fano.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab2_Fano\Lab2_Fano\obj\Debug\Lab2_Fano.pdb

@@ -1,0 +1,7 @@
+C:\работы по програм-ю\TeorCod Laboratory\Lab1_Haffman\Lab1_Haffman\bin\Debug\Lab1_Haffman.exe.config
+C:\работы по програм-ю\TeorCod Laboratory\Lab1_Haffman\Lab1_Haffman\bin\Debug\Lab1_Haffman.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab1_Haffman\Lab1_Haffman\bin\Debug\Lab1_Haffman.pdb
+C:\работы по програм-ю\TeorCod Laboratory\Lab1_Haffman\Lab1_Haffman\obj\Debug\Lab1_Haffman.csproj.AssemblyReference.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab1_Haffman\Lab1_Haffman\obj\Debug\Lab1_Haffman.csproj.CoreCompileInputs.cache
+C:\работы по програм-ю\TeorCod Laboratory\Lab1_Haffman\Lab1_Haffman\obj\Debug\Lab1_Haffman.exe
+C:\работы по програм-ю\TeorCod Laboratory\Lab1_Haffman\Lab1_Haffman\obj\Debug\Lab1_Haffman.pdb
