@@ -16,7 +16,7 @@ namespace Lab7_LineCode
                                             { 0, 1, 0},
                                             { 0, 0, 1}};
 
-            Console.WriteLine("Введите сообщение: ");
+            Console.WriteLine("Введите сообщение (Код (5, 2) должен содердать 2 информационных символа): ");
             string input = Console.ReadLine();
 
             int[] Input = new int[input.Length];
